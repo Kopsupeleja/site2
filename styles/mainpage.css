@@ -1,0 +1,41 @@
+html, body {
+    height: 125%;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.808);
+    font-family: 'Arial', Courier, monospace;
+}
+
+.portfolio__background {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100%;
+    
+}
+
+.portfolio__name {
+    color: rgb(31, 216, 230); 
+    text-align: center; 
+    margin: 20px; 
+}
+
+.portfolio__text{
+    color: rgb(23, 190, 202); 
+    text-align: left; 
+    margin: 20px; 
+    font-family: Courier, monospace;
+}
+
+.portfolio__link{
+    color: rgb(151, 23, 202); 
+    text-align: left; 
+    margin: 20px; 
+    font-family: Courier, monospace;
+}
+
+.portfolio__contact{
+    color: lime; 
+    text-align: left; 
+    margin: 20px; 
+    font-family: Courier, monospace;
+}
